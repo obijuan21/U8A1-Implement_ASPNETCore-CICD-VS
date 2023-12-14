@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U8A1-Implement_ASPNETCore-CICD-VS", "U8A1-Implement_ASPNETCore-CICD-VS\U8A1-Implement_ASPNETCore-CICD-VS.csproj", "{777C6A0A-85C0-4E75-A162-7564A6BABA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777C6A0A-85C0-4E75-A162-7564A6BABA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777C6A0A-85C0-4E75-A162-7564A6BABA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777C6A0A-85C0-4E75-A162-7564A6BABA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777C6A0A-85C0-4E75-A162-7564A6BABA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C3AF77-B072-4822-8366-B0CE3C1FCF78}
+	EndGlobalSection
+EndGlobal
